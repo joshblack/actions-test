@@ -8,8 +8,7 @@ on:
 jobs:
   main:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@master
     - name: Hello
-      run: echo 'Hello!'
+      run: echo 'Hello world'
