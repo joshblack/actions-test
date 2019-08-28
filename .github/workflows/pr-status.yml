@@ -8,4 +8,4 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: Hello
-      run: echo Hello
+      run: echo 'Hello!'
